@@ -1,0 +1,12 @@
+{
+  "name": "vue_test",
+  "version": "1.0.0",
+  "description": "vue tests",
+  "main": "index.js",
+  "repository": "https://github.com/huhuang03/test_vue",
+  "author": "huhuang03",
+  "license": "MIT",
+  "dependencies": {
+    "vue": "^3.2.41"
+  }
+}
